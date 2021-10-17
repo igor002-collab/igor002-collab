@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @igor002-collab
-- 👀 I’m interested in :TUDO!
+- 👀 I’m interested in :EVERYTHING!!
 - 🌱 I’m currently learning :React,Python,C#
-- 💞️ I’m looking to collaborate on :TUDO QUE ME FAÇA CRIAR NOVAS EXPERIENCIAS E GANHAR CONHECIMENTO
+- 💞️ I’m looking to collaborate on :EVERYTHING THAT MAKES ME CREATE NEW EXPERIENCES AND GAIN KNOWLEDGE
 - 📫 How to reach me :igormdlv2011@gmail.com Discord:JS.py#2533
