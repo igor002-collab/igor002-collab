@@ -1,0 +1,15 @@
+int TEMPO = 7000;
+
+void setup() {
+
+pinMode (11,OUTPUT);
+}
+
+void loop() {
+digitalWrite (11,HIGH);
+delay (TEMPO);
+digitalWrite (12,LOW);
+delay (TEMPO / 7);
+
+
+}
